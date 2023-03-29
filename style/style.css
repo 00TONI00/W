@@ -128,9 +128,9 @@ padding: 10px;
 }
 .nav-auto div
 {
-  border: 10px solid #e5e5e5;
+  border: 0px solid #e5e5e5;
   padding: 0px;
-  border-radius: 30px;
+  border-radius: 0px;
   transition: 1s;
 }
 .nav-auto div:not(:last-child)
