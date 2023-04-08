@@ -103,7 +103,6 @@ top: 0px;
 {
   width: 100%;
   height: 100%;
-  object-fit: cover;
 }
 .nav-manual
 {
@@ -222,7 +221,6 @@ top: 0px;
 {
   width: 100%;
   height: 100%;
-  object-fit: cover;
 }
 .overlay
 {
