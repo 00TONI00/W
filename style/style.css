@@ -188,6 +188,8 @@ top: 0px;
   display: flex;
   background-color: #d9eaec;
   padding: 50px;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 .galeria
 {
