@@ -10,35 +10,62 @@ main
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
-header
+.nav
 {
   position: fixed;
   top: 0;
-	left: 0;
-	width: 100%;
-	background-color: #031926;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  z-index: 9999;
 }
-nav 
+ul, ol
 {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 50px;
-}
-nav ul 
-{
-display: flex;
 list-style: none;
 }
-nav ul li 
+
+.nav li a
 {
-margin: 0 10px;
-}
-nav ul li a 
-{
+background-color: #000;
 color: #fff;
 text-decoration: none;
-padding: 10px;
+padding: 10px 92px;
+display: block;
+}
+.nav li a:hover
+{
+background-color: #434343;
+}
+
+.nav > li
+{
+float: left;
+}
+
+.nav li ul
+{
+display: none;
+position: absolute;
+min-width: 140px;
+}
+
+.nav li:hover > ul
+{
+display: block;
+}
+
+.nav li ul li
+{
+position: relative;
+}
+
+.nav li ul li ul
+{
+right: -140px;
+top: 0px;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
