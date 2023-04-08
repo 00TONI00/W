@@ -301,5 +301,21 @@ top: 0px;
   padding-left: 100px;
   padding-right: 100px;
 }
+
+.contactes-num
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box
+{
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
