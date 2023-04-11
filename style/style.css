@@ -292,6 +292,13 @@ top: 0px;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
+.contactes
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 .contenedor {
   display: flex;
   flex-direction: column;
