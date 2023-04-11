@@ -354,20 +354,35 @@ top: 0px;
 {
   padding-top: 74px;
 }
-#imatge-part-1
+
+#imatge-part-1-1
 {
   padding-left: 1259px;
   box-shadow: 0 8px 18px 22px rgb(0, 0, 0);
 }
-#imatge-part-2
+#imatge-part-1-2
+{
+
+}
+
+#imatge-part-2-1
 {
   padding-right: 1259px;
   box-shadow: 0 8px 18px 22px rgb(0, 0, 0);
 }
-#imatge-part-3
+#imatge-part-2-2
+{
+
+}
+
+#imatge-part-3-1
 {
   padding-left: 1259px;
   box-shadow: 0 8px 18px 22px rgb(0, 0, 0);
+}
+#imatge-part-3-2
+{
+
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
