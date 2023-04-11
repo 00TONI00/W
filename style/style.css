@@ -297,10 +297,12 @@ top: 0px;
   padding: 28px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
 }
-
+#ubicacio
+{
+  width: 50%;
+  height: 50%;
+}
 .contactes-num
 {
   display: flex;
