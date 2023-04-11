@@ -217,7 +217,7 @@ top: 0px;
   margin-bottom: 5px;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,.75);
 }
-.imagen img /*pq es veigi be la foto*/
+.imagen img
 {
   width: 100%;
   height: 100%;
@@ -233,7 +233,7 @@ top: 0px;
   transition: .5s ease;
   overflow: hidden;
 }
-.overlay h2/* esto es pa poner el texto en el centro*/
+.overlay h2
 { 
   color:white;
   font-weight: 300%;
@@ -249,7 +249,7 @@ top: 0px;
   height: 100%;
   cursor: pointer;
 }
-@media  screen and (max-width: 1000px)/*PEL MOBIL , PQ LA PANTALLA QUEDI AJUSTADA*/
+@media  screen and (max-width: 1000px)        /*MODIFICAR I POSAR-LO AL FINAL*/
 {
   .contenedor-imagenes
   {
@@ -258,7 +258,7 @@ top: 0px;
   }
 }
 
-@media screen and( max-width:700px) 
+@media screen and( max-width:700px)         /*MODIFICAR I POSAR-LO AL FINAL*/
 {
   .contenedor-imagenes
   {
@@ -273,7 +273,7 @@ top: 0px;
   
 }
 
-@media screen and( max-width:450px)
+@media screen and( max-width:450px)        /*MODIFICAR I POSAR-LO AL FINAL*/
 {
   h1
   {
