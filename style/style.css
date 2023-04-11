@@ -299,17 +299,20 @@ top: 0px;
   align-items: center;
   height: 100vh;
 }
-.contenedor {
+.contenedor 
+{
   flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
 }
 
-#imatge-institut {
+#imatge-institut 
+{
   max-width: 50%;
 }
-.caixa-institut {
+.caixa-institut 
+{
   display: flex;
   flex-direction: column;
   font-size: 40px;
