@@ -303,6 +303,7 @@ top: 0px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  display: flex;
 }
 
 #imatge-institut {
