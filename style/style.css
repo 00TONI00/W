@@ -340,7 +340,7 @@ top: 0px;
 /*------------------------------------------------------------------------------------------------*/
 .Part-1
 {
-
+  padding-block-start: 38px;
 }
 .Part-2
 {
@@ -348,11 +348,10 @@ top: 0px;
 }
 .Part-3
 {
-  
+
 }
 #imatge-part-1
 {
-  padding-block-start: 38px;
   padding-left: 1242px;
 }
 #imatge-part-2
