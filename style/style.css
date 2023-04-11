@@ -314,10 +314,11 @@ top: 0px;
 .caixa-institut {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   font-size: 20px;
-  writing-mode: vertical-rl;
-  text-orientation: upright;
+  text-align: center;
+  margin-top: 20px;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
