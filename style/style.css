@@ -295,12 +295,10 @@ top: 0px;
 .contactes
 {
   padding: 28px;
-}
-.contactes .institut .img
-{
-  padding-left: 100px;
-  padding-right: 100px;
-  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .contactes-num
