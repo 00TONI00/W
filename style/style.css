@@ -388,6 +388,9 @@ top: 0px;
 {
   text-align: justify;
   line-height: 1.5;
+  position: absolute;
+  padding-inline: 2%;
+  padding-block-start: 4%;
 }
 
 /*------------------------------------------------------------------------------------------------*/
