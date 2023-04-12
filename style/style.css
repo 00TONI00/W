@@ -433,8 +433,9 @@ top: 0px;
 #imatge-idees
 {
   padding-top: 5%;
-  padding-left: 20%;
+  padding-left: 10%;
   position: absolute;
+  width: 70%;
 }
 
 .plantejament
@@ -449,8 +450,9 @@ top: 0px;
 #imatge-plantejament
 {
   padding-top: 5%;
-  padding-left: 20%;
+  padding-left: 10%;
   position: absolute;
+  width: 70%;
 }
 
 .prova-i-error
@@ -465,8 +467,9 @@ top: 0px;
 #imatge-prova-i-error
 {
   padding-top: 5%;
-  padding-left: 20%;
+  padding-left: 10%;
   position: absolute;
+  width: 70%;
 }
 
 .perfeccionar
@@ -481,8 +484,9 @@ top: 0px;
 #imatge-perfeccionar
 {
   padding-top: 5%;
-  padding-left: 20%;
+  padding-left: 10%;
   position: absolute;
+  width: 70%;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
