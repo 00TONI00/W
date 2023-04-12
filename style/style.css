@@ -428,6 +428,7 @@ top: 0px;
   padding-left: 5%;
   padding-top: 2%;
   padding-right: 5%;
+  position: relative;
 }
 #imatge-idees
 {
@@ -443,6 +444,7 @@ top: 0px;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
+  position: relative;
 }
 #imatge-plantejament
 {
@@ -456,6 +458,7 @@ top: 0px;
   padding-left: 5%;
   padding-top: 2%;
   padding-right: 5%;
+  position: relative;
 }
 #imatge-prova-i-error
 {
@@ -469,6 +472,7 @@ top: 0px;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
+  position: relative;
 }
 #imatge-perfeccionar
 {
