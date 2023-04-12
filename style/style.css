@@ -348,6 +348,8 @@ top: 0px;
   justify-content: end;
   flex-direction: column;
   padding-top:  4.84%;
+  padding-left: 1%;
+}
 }
 .Part-3
 {
@@ -370,8 +372,8 @@ top: 0px;
 
 #imatge-part-2-1
 {
-  padding-right: 79%;
-  box-shadow: -23px 8px 18px 22px rgb(0, 0, 0);
+  padding-right: 81.8%;
+  box-shadow: 23px 8px 18px 22px rgb(0, 0, 0);
 }
 .caixa-2
 {
