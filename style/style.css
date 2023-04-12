@@ -426,24 +426,36 @@ top: 0px;
 .idees
 {
   text-align: justify;
-  width: 38%;
+  width: 100%;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-right: 1%;
 }
 
 .plantejament
 {
   text-align: justify;
-  width: 38%;
+  width: 100%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
 }
 
 .prova-i-error
 {
   text-align: justify;
-  width: 38%;
+  width: 100%;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-right: 1%;
 }
 .perfeccionar
 {
   text-align: justify;
-  width: 38%;
+  width: 100%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
