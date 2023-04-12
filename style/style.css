@@ -346,7 +346,6 @@ top: 0px;
 {
   display: flex;
   justify-content: end;
-  align-items: end;
   flex-direction: column;
   padding-top:  4.84%;
 }
