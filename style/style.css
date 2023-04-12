@@ -448,7 +448,9 @@ top: 0px;
 }
 #imatge-plantejament
 {
-
+  padding-top: 5%;
+  padding-left: 20%;
+  position: absolute;
 }
 
 .prova-i-error
@@ -462,7 +464,9 @@ top: 0px;
 }
 #imatge-prova-i-error
 {
-
+  padding-top: 5%;
+  padding-left: 20%;
+  position: absolute;
 }
 
 .perfeccionar
@@ -476,7 +480,9 @@ top: 0px;
 }
 #imatge-perfeccionar
 {
-
+  padding-top: 5%;
+  padding-left: 20%;
+  position: absolute;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
