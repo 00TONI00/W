@@ -429,6 +429,10 @@ top: 0px;
   padding-top: 2%;
   padding-right: 5%;
 }
+#imatge-idees
+{
+
+}
 
 .plantejament
 {
@@ -437,6 +441,10 @@ top: 0px;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
+}
+#imatge-plantejament
+{
+
 }
 
 .prova-i-error
@@ -447,6 +455,11 @@ top: 0px;
   padding-top: 2%;
   padding-right: 5%;
 }
+#imatge-prova-i-error
+{
+
+}
+
 .perfeccionar
 {
   text-align: justify;
@@ -454,6 +467,10 @@ top: 0px;
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
+}
+#imatge-perfeccionar
+{
+  
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
