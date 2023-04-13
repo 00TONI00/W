@@ -367,6 +367,7 @@ top: 0px;
   position: absolute;
   padding-inline: 2%;
   padding-block-start: 4%;
+  width: 79%;
 }
 
 #imatge-part-2-1
@@ -391,10 +392,10 @@ top: 0px;
 .caixa-3
 {
   text-align: justify;
-  line-height: 1.5;
   position: absolute;
   padding-inline: 2%;
   padding-block-start: 4%;
+  width: 79%;
 }
 
 /*------------------------------------------------------------------------------------------------*/
