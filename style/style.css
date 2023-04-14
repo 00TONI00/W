@@ -493,21 +493,25 @@ top: 0px;
 
 .cap-idees
 {
+  position: absolute;
   width: ;
   height: 
 }
 .cap-plantejament
 {
+  position: absolute;
   width: ;
   height: 
 }
 .cap-prova-i-error
 {
+  position: absolute;
   width: ;
   height: 
 }
 .cap-perfeccionar
 {
+  position: absolute;
   width: ;
   height: ;
 }
