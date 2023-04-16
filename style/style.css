@@ -671,8 +671,10 @@ top: 0px;
 /*-----*/
 .persona1-1
 {
-  padding-left: 30%;
+  padding-left: 0%;
   font-size: 200%;
+  padding-right: 20%;
+  text-align: center;
 }
 .persona2-1
 {
