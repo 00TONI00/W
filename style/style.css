@@ -573,10 +573,12 @@ top: 0px;
 .2P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .3P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .4P
 {
@@ -590,10 +592,12 @@ top: 0px;
 .6P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .7P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .8P
 {
@@ -607,10 +611,12 @@ top: 0px;
 .10P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .11P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .12P
 {
@@ -624,10 +630,12 @@ top: 0px;
 .14P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .15P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .16P
 {
@@ -641,10 +649,12 @@ top: 0px;
 .18P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .19P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .20P
 {
@@ -658,14 +668,21 @@ top: 0px;
 .22P
 {
   position: absolute;
+  padding-inline-start: 27%;
 }
 .23P
 {
   position: absolute;
+  padding-inline-start: 54%;
 }
 .24P
 {
+<<<<<<< HEAD
+  position: absolute;
   padding-inline-start: 81.3%;
+=======
+  padding-inline-start: 81.3%;
+>>>>>>> 5d674d0acf89839ba220e4ba7f7e051cfbc7ee80
 }
 
 
