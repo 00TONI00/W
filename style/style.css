@@ -53,6 +53,7 @@ background-color: #434343;
 .nav > li
 {
 float: left;
+padding-left: 12%;
 }
 
 .nav li ul
