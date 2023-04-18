@@ -34,49 +34,49 @@ main
 }
 ul, ol
 {
-list-style: none;
+  list-style: none;
 }
 
 .nav li a
 {
-background-color: #000;
-color: #fff;
-text-decoration: none;
-padding: 10px 92px;
-display: block;
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 92px;
+  display: block;
 }
 .nav li a:hover
 {
-background-color: #434343;
+  background-color: #434343;
 }
 
 .nav > li
 {
-float: left;
-padding-left: 12%;
+  float: left;
+  padding-left: 12%;
 }
 
 .nav li ul
 {
-display: none;
-position: absolute;
-min-width: 140px;
+  display: none;
+  position: absolute;
+  min-width: 140px;
 }
 
 .nav li:hover > ul
 {
-display: block;
+  display: block;
 }
 
 .nav li ul li
 {
-position: relative;
+  position: relative;
 }
 
 .nav li ul li ul
 {
-right: -140px;
-top: 0px;
+  right: -140px;
+  top: 0px;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
