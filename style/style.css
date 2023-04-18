@@ -949,6 +949,416 @@ ul, ol
   padding-left: 1%;
   padding-block-end: 1%;
 }
+/*-----*/
+.ex1
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex2
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex3
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex4
+{
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.ex5
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex6
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex7
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex8
+{
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.ex9
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex10
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex11
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex12
+{
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.ex13
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex14
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex15
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex16
+{
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.ex17
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex18
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex19
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex20
+{
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.ex21
+{
+  position: absolute;
+  padding-top: 3%;
+}
+.ex22
+{
+  position: absolute;
+  padding-inline-start: 27%;
+  padding-top: 3%;
+}
+.ex23
+{
+  position: absolute;
+  padding-inline-start: 53%;
+  padding-top: 3%;
+}
+.ex24
+{
+  position: absolute;
+  padding-inline-start: 81.3%;
+  padding-top: 3%;
+}
+/*-----*/
+.persona1-1
+{
+  font-size: 200%;        
+  padding-right: 20%;
+  text-align: center;
+}
+.persona2-1
+{
+  padding-right: 20%;          
+  text-align: center;
+  font-size: 200%;
+}
+.persona3-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona4-1
+{
+  font-size: 200%;          
+  text-align: center;
+}
+/*-----*/
+.persona5-1
+{
+  font-size: 200%;           
+  padding-right: 20%;
+  text-align: center;
+}
+.persona6-1
+{
+  padding-right: 20%;           
+  text-align: center;
+  font-size: 200%;
+}
+.persona7-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona8-1
+{
+  font-size: 200%;         
+  text-align: center;
+}
+/*-----*/
+.persona9-1
+{
+  font-size: 200%;           
+  padding-right: 20%;
+  text-align: center;
+}
+.persona10-1
+{
+  padding-right: 20%;           
+  text-align: center;
+  font-size: 200%;
+}
+.persona11-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona12-1
+{
+  font-size: 200%;            
+  text-align: center;
+}
+/*-----*/
+.persona13-1
+{
+  font-size: 200%;            
+  padding-right: 20%;
+  text-align: center;
+}
+.persona14-1
+{
+  padding-right: 20%;          
+  text-align: center;
+  font-size: 200%;
+}
+.persona15-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona16-1
+{
+  font-size: 200%;           
+  text-align: center;
+}
+/*-----*/
+.persona17-1
+{
+  font-size: 200%;           
+  padding-right: 20%;
+  text-align: center;
+}
+.persona18-1
+{
+  padding-right: 20%;           
+  text-align: center;
+  font-size: 200%;
+}
+.persona19-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona20-1
+{
+  font-size: 200%;          
+  text-align: center;
+}
+/*-----*/
+.persona21-1
+{
+  font-size: 200%;            
+  padding-right: 20%;
+  text-align: center;
+}
+.persona22-1
+{
+  padding-right: 20%;           
+  text-align: center;
+  font-size: 200%;
+}
+.persona23-1
+{
+  padding-right: 20%;
+  text-align: center;
+  font-size: 200%;
+}
+.persona24-1
+{
+  font-size: 200%;       
+  text-align: center;
+}
+/*-----*/
+#imat-ex-1
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-2
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-3
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-4
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
+#imat-ex-5
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-6
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-7
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-8
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
+#imat-ex-9
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-10
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-11
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-12
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
+#imat-ex-13
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-14
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-15
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-16
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
+#imat-ex-17
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-18
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-19
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-20
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
+#imat-ex-21
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-22
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-23
+{
+  width: 80%;
+  height: 34vh;
+}
+#imat-ex-24
+{
+  width: 100%;
+  height: 34vh;
+}
+/*-----*/
 .exercici-3
 {
   width: 100%;
