@@ -3073,43 +3073,53 @@ ul, ol
 .VIDEOJOC-1
 {
   position: absolute;
+  text-align: justify;
+  width: 45%;
 }
 .VIDEOJOC-2
 {
   position: absolute;
+  text-align: justify;
+  width: 45%;
 }
 .VIDEOJOC-3
 {
   position: absolute;
+  text-align: justify;
+  width: 45%;
 }
 .VIDEOJOC-4
 {
   position: absolute;
+  text-align: justify;
+  width: 45%;
 }
 .VIDEOJOC-5
 {
   position: absolute;
+  text-align: justify;
+  width: 45%;
 }
 
 #JOC-1
 {
-
+  padding-left: 78%;
 }
 #JOC-2
 {
-
+  padding-left: 78%;
 }
 #JOC-3
 {
-
+  padding-left: 78%;
 }
 #JOC-4
 {
-
+  padding-left: 78%;
 }
 #JOC-5
 {
-  
+  padding-left: 78%;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
