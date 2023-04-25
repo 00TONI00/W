@@ -3104,33 +3104,46 @@ ul, ol
 {
   position: absolute;
   text-align: justify;
-  width: 50%;
+  width: 66%;
   padding-left: 4%;
   padding-right: 4%;
+  padding-top: 4%;
 }
 .VIDEOJOC-2
 {
   position: absolute;
   text-align: justify;
-  width: 45%;
+  width: 66%;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 4%;
 }
 .VIDEOJOC-3
 {
   position: absolute;
   text-align: justify;
-  width: 45%;
+  width: 66%;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 4%;
 }
 .VIDEOJOC-4
 {
   position: absolute;
   text-align: justify;
-  width: 45%;
+  width: 66%;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 4%;
 }
 .VIDEOJOC-5
 {
   position: absolute;
   text-align: justify;
-  width: 45%;
+  width: 66%;
+  padding-left: 4%;
+  padding-right: 4%;
+  padding-top: 4%;
 }
 
 #JOC-1
