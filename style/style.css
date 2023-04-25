@@ -541,6 +541,7 @@ ul, ol
   padding-right: 1%;
   padding-left: 1%;
   padding-block-end: 1%;
+  background: linear-gradient(to bottom,#00E1D9,#5E001F);
 }
 /*-----*/
 .ex1
@@ -960,6 +961,7 @@ ul, ol
   padding-right: 1%;
   padding-left: 1%;
   padding-block-end: 1%;
+  background: linear-gradient(to bottom,#5E001F,#00E1D9);
 }
 /*-----*/
 .ex1-2
@@ -1385,6 +1387,8 @@ ul, ol
 {
   position: absolute;
   padding-top: 3%;
+  background: linear-gradient(to bottom,#5E001F,#00E1D9);
+
 }
 .ex2-3
 {
@@ -1798,6 +1802,8 @@ ul, ol
   padding-right: 1%;
   padding-left: 1%;
   padding-block-end: 1%;
+  background: linear-gradient(to bottom,#00E1D9,#5E001F);
+
 }
 /*-----*/
 .ex1-4
@@ -2641,6 +2647,8 @@ ul, ol
 {
   position: absolute;
   padding-top: 3%;
+  background: linear-gradient(to bottom,#5E001F,#00E1D9);
+
 }
 .ex2-5
 {
