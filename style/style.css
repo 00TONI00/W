@@ -155,6 +155,10 @@ ul, ol
 {
   margin-left: -60%;
 }
+#radio4:checked ~ .first
+{
+  margin-left: -80%;
+}
 .nav-auto
 {
   position: absolute;
@@ -187,6 +191,10 @@ ul, ol
   background-color: #e5e5e5;
 }
 #radio4:checked ~ .nav-auto .auto-btn4
+{
+  background-color: #e5e5e5;
+}
+#radio4:checked ~ .nav-auto .auto-btn5
 {
   background-color: #e5e5e5;
 }
