@@ -425,7 +425,7 @@ ul, ol
   width: 100%;
   height: 100vh;
   display: flex;
-  background: linear-gradient(to bottom,#2ecc71,#8e44ad);
+  background: linear-gradient(to bottom,#57f59a,#984eb7);
 }
 .web-2
 {
@@ -433,7 +433,7 @@ ul, ol
   width: 100%;
   height: 120vh;
   display: flex;
-  background: linear-gradient(to bottom,#8e44ad,#2ecc71);
+  background: linear-gradient(to bottom,#984eb7,#57f59a);
 }
 
 .idees
