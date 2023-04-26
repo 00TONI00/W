@@ -426,7 +426,7 @@ ul, ol
 }
 .web-1
 {
-  padding-top: 5%;
+  padding-top: 4%;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -450,7 +450,6 @@ ul, ol
 }
 #imatge-idees
 {
-  padding-top: 5%;
   padding-left: 10%;
   position: absolute;
   width: 70%;
@@ -467,7 +466,6 @@ ul, ol
 }
 #imatge-plantejament
 {
-  padding-top: 5%;
   padding-left: 10%;
   position: absolute;
   width: 70%;
@@ -484,7 +482,6 @@ ul, ol
 }
 #imatge-prova-i-error
 {
-  padding-top: 5%;
   padding-left: 10%;
   position: absolute;
   width: 70%;
@@ -501,7 +498,6 @@ ul, ol
 }
 #imatge-perfeccionar
 {
-  padding-top: 5%;
   padding-left: 10%;
   position: absolute;
   width: 70%;
