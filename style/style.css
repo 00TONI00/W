@@ -156,9 +156,13 @@ ul, ol
 {
   margin-left: -60%;
 }
-#radio4:checked ~ .first
+#radio5:checked ~ .first
 {
   margin-left: -80%;
+}
+#radio6:checked ~ .first
+{
+  margin-left: -100%;
 }
 .nav-auto
 {
@@ -195,7 +199,11 @@ ul, ol
 {
   background-color: #e5e5e5;
 }
-#radio4:checked ~ .nav-auto .auto-btn5
+#radio5:checked ~ .nav-auto .auto-btn5
+{
+  background-color: #e5e5e5;
+}
+#radio6:checked ~ .nav-auto .auto-btn6
 {
   background-color: #e5e5e5;
 }
