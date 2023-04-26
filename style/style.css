@@ -206,7 +206,7 @@ ul, ol
   display: block;
   display: flex;
   background-color: #d9eaec;
-  background: linear-gradient(to bottom,#86a893,#d9eaec);
+  background: linear-gradient(to bottom,#86a893,#e3f3f3);
   padding: 50px;
   padding-right: 0px;
   padding-left: 0px;
@@ -319,7 +319,7 @@ ul, ol
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(to bottom,#d9eaec,#86a893);
+  background: linear-gradient(to bottom,#e3f3f3,#86a893);
 }
 .contenedor 
 {
