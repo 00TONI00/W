@@ -206,6 +206,7 @@ ul, ol
   display: block;
   display: flex;
   background-color: #d9eaec;
+  background: linear-gradient(to bottom,#9abca7,#d9eaec);
   padding: 50px;
   padding-right: 0px;
   padding-left: 0px;
@@ -3077,7 +3078,8 @@ ul, ol
   padding-block-end: 5%;
   padding-left: 1%;
   padding-right: 1%;
-  background: linear-gradient(to bottom,#AFF2F2,#484197);}
+  background: linear-gradient(to bottom,#AFF2F2,#484197);
+}
 
 .VIDEOJOC-CAP-1
 {
