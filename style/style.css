@@ -319,7 +319,7 @@ ul, ol
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #9abca7;
+  background: linear-gradient(to bottom,#d9eaec,#9abca7);
 }
 .contenedor 
 {
