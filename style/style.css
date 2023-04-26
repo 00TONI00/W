@@ -375,9 +375,10 @@ ul, ol
 
 #imatge-part-1-1
 {
-  padding-left: 80%;
+  padding-left: 82%;
   box-shadow: -23px 8px 18px 22px rgb(0, 0, 0);
   background-color: #d9eaec;
+  height: 25vh;
 }
 .caixa-1
 {
