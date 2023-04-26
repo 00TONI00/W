@@ -82,7 +82,7 @@ ul, ol
 /*------------------------------------------------------------------------------------------------*/
 .sliderPrime
 {
-  height: 500px;
+  height: 95vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -114,6 +114,7 @@ ul, ol
 {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 .nav-manual
 {
