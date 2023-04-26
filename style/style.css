@@ -2636,12 +2636,12 @@ ul, ol
 .exercici-5
 {
   width: 100%;
-  height: 290vh;
+  height: 300vh;
   padding-top: 4%;
   padding-right: 1%;
   padding-left: 1%;
   padding-block-end: 1%;
-  background: linear-gradient(to bottom,#5E001F,#00E1D9);
+  background: linear-gradient(to bottom,#00E1D9,#5E001F);
 }
 /*-----*/
 .ex1-5
