@@ -3242,7 +3242,7 @@ ul, ol
 }
 .container .card img
 {
-  width: 330px;
+  /*width: 330px;*/
   height: 220px;
 }
 .container .card h1
