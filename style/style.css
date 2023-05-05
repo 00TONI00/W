@@ -3234,7 +3234,7 @@ ul, ol
 }
 .container .card img
 {
-  /*width: 330px;*/
+  padding-top: 5%;
   height: 220px;
 }
 .container .card h1
