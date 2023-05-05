@@ -326,6 +326,7 @@ ul, ol
 /*------------------------------------------------------------------------------------------------*/
 .contenedor 
 {
+  padding-top: 13%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
