@@ -3214,6 +3214,7 @@ ul, ol
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
+  padding-top: 2%;
 }
 .container .card
 {
