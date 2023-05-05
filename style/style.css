@@ -439,6 +439,8 @@ ul, ol
 .web-1
 {
   padding-top: 4%;
+  padding-left: 2%;
+  padding-right: 2%;
   width: 100%;
   display: flex;
   background-color: #F4E9CD;
