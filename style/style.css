@@ -324,14 +324,6 @@ ul, ol
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
-.contactes
-{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: linear-gradient(to bottom,#e3f3f3,#86a893);
-}
 .contenedor 
 {
   flex-direction: column;
