@@ -454,13 +454,6 @@ ul, ol
   padding-right: 5%;
   position: relative;
 }
-#imatge-web
-{
-  padding-left: 5%;
-  padding-right: 5%;
-  position: absolute;
-  padding-top: 8%;
-}
 
 .plantejament
 {
@@ -470,13 +463,6 @@ ul, ol
   padding-right: 5%;
   padding-top: 2%;
   position: relative;
-}
-#imatge-plantejament
-{
-  padding-left: 10%;
-  position: absolute;
-  width: 70%;
-  padding-top: 8%;
 }
 
 .prova-i-error
@@ -488,13 +474,6 @@ ul, ol
   padding-right: 5%;
   position: relative;
 }
-#imatge-prova-i-error
-{
-  padding-left: 10%;
-  position: absolute;
-  width: 70%;
-  padding-top: 5%;
-}
 
 .perfeccionar
 {
@@ -504,13 +483,6 @@ ul, ol
   padding-right: 5%;
   padding-top: 4%;
   position: relative;
-}
-#imatge-perfeccionar
-{
-  padding-left: 15%;
-  position: absolute;
-  width: 66%;
-  padding-top: 5%;
 }
 
 .cap-idees
@@ -532,6 +504,14 @@ ul, ol
 {
   position: absolute;
   padding-left: 70%;
+}
+
+#imatge-web
+{
+  padding-left: 5%;
+  padding-right: 5%;
+  position: absolute;
+  padding-top: 8%;
 }
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
