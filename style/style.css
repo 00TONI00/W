@@ -454,11 +454,11 @@ ul, ol
   padding-right: 5%;
   position: relative;
 }
-#imatge-idees
+#imatge-web
 {
-  padding-left: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
   position: absolute;
-  width: 70%;
   padding-top: 8%;
 }
 
