@@ -452,7 +452,6 @@ ul, ol
   padding-left: 5%;
   padding-top: 2%;
   padding-right: 5%;
-  position: relative;
 }
 
 .plantejament
@@ -462,7 +461,6 @@ ul, ol
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 2%;
-  position: relative;
 }
 
 .prova-i-error
@@ -472,7 +470,6 @@ ul, ol
   padding-left: 5%;
   padding-top: 4%;
   padding-right: 5%;
-  position: relative;
 }
 
 .perfeccionar
@@ -482,33 +479,27 @@ ul, ol
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 4%;
-  position: relative;
 }
 
 .cap-idees
 {
-  position: absolute;
   padding-left: 22%;
 }
 .cap-plantejament
 {
-  position: absolute;
   padding-left: 70%;
 }
 .cap-prova-i-error
 {
-  position: absolute;
   padding-left: 22%;
 }
 .cap-perfeccionar
 {
-  position: absolute;
   padding-left: 70%;
 }
 
 #imatge-web
 {
-  position: absolute;
   padding-top: 8%;
 }
 /*------------------------------------------------------------------------------------------------*/
