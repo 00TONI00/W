@@ -3167,6 +3167,8 @@ ul, ol
 /*------------------------------------------------------------------------------------------------*/
 .TREBALL-0
 {
+  width: 100%;
+  background-color: #F4E9CD;
 }
 
  .WEB-0
@@ -3174,6 +3176,7 @@ ul, ol
  }
  .WEB-TEXT
  {
+  text-align: justify;
  }
 .WEB-IMATGE
 
@@ -3182,6 +3185,7 @@ ul, ol
 }
 .ARTCODI-TEXT
 {
+  text-align: justify;
 }
 .ARTCODI-IMATGE
 {
@@ -3192,6 +3196,7 @@ ul, ol
 }
 .VIDEOJOCS-TEXT
 {
+  text-align: justify;
 }
 .VIDEOJOCS-IMATGE
 {
