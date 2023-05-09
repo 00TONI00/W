@@ -3208,7 +3208,10 @@ ul, ol
 .IDEES-IMATGE
 {}
 .IDEES-IMATGE #IDEES-I
-{}
+{
+  width: 100%;
+  height: 100%;
+}
 
 .PLANTEJAMENT
 {}
@@ -3219,7 +3222,10 @@ ul, ol
 .PLANTEJAMENT-IMATGE
 {}
 .PLANTEJAMENT-IMATGE #PLANTEJAMENT-I
-{}
+{
+  width: 100%;
+  height: 100%;
+}
 
 .WEB-2
 {
@@ -3236,7 +3242,10 @@ ul, ol
 .PROVA-I-ERROR-IMATGE
 {}
 .PROVA-I-ERROR #PROVA-I-ERROR-I
-{}
+{
+  width: 100%;
+  height: 100%;
+}
 
 .PERFECCIONAR
 {}
@@ -3247,7 +3256,10 @@ ul, ol
 .PERFECCIONAR-IMATGE
 {}
 .PERFECCIONAR-IMATGE #PERFECCIONAR-I
-{}
+{
+  width: 100%;
+  height: 100%;
+}
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------*/
