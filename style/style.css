@@ -3223,7 +3223,10 @@ ul, ol
 .PLANTEJAMENT-TEXT
 {}
 .PLANTEJAMENT-IMATGE
-{}
+{
+  width: 30%;
+  height: 30vh;
+}
 .PLANTEJAMENT-IMATGE #PLANTEJAMENT-I
 {
   width: 100%;
@@ -3243,7 +3246,10 @@ ul, ol
 .PROVA-I-ERROR-TEXT
 {}
 .PROVA-I-ERROR-IMATGE
-{}
+{
+  width: 30%;
+  height: 30vh;
+}
 .PROVA-I-ERROR #PROVA-I-ERROR-I
 {
   width: 100%;
@@ -3257,7 +3263,10 @@ ul, ol
 .PERFECCIOANAR-TEXT
 {}
 .PERFECCIONAR-IMATGE
-{}
+{
+  width: 30%;
+  height: 30vh;
+}
 .PERFECCIONAR-IMATGE #PERFECCIONAR-I
 {
   width: 100%;
