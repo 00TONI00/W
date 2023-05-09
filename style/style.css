@@ -3194,7 +3194,10 @@ ul, ol
 }
 
 .WEB-1
-{}
+{
+  display: flex;
+  padding: 2%;
+}
 
 .IDEES
 {}
@@ -3219,7 +3222,10 @@ ul, ol
 {}
 
 .WEB-2
-{}
+{
+  display: flex;
+  padding: 2%;
+}
 
 .PROVA-I-ERROR
 {}
