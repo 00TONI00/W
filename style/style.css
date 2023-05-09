@@ -3271,9 +3271,13 @@ ul, ol
 .PERFECCIONAR 
 {}
 .PERFECCIONAR .PERFECCIONAR-CAP
-{}
+{
+  text-align: center;
+}
 .PERFECCIONAR .PERFECCIOANAR-TEXT
-{}
+{
+  text-align: justify;
+}
 .PERFECCIONAR .PERFECCIONAR-IMATGE
 {
   width: 30%;
