@@ -3174,6 +3174,7 @@ ul, ol
 
  .WEB-0
  {
+  display: flex;
  }
  .WEB-TEXT
  {
