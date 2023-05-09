@@ -3200,7 +3200,9 @@ ul, ol
 }
 
 .IDEES 
-{}
+{
+  padding: 2%;
+}
 .IDEES .IDEES-CAP
 {
   text-align: center;
@@ -3221,7 +3223,9 @@ ul, ol
 }
 
 .PLANTEJAMENT
-{}
+{
+  padding: 2%;
+}
 .PLANTEJAMENT .PLANTEJAMENT-CAP
 {
   text-align: center;
@@ -3248,7 +3252,9 @@ ul, ol
 }
 
 .PROVA-I-ERROR 
-{}
+{
+  padding: 2%;
+}
 .PROVA-I-ERROR .PROVA-I-ERROR-CAP
 {
   text-align: center;
@@ -3269,7 +3275,9 @@ ul, ol
 }
 
 .PERFECCIONAR 
-{}
+{
+  padding: 2%;
+}
 .PERFECCIONAR .PERFECCIONAR-CAP
 {
   text-align: center;
