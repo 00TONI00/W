@@ -3202,9 +3202,13 @@ ul, ol
 .IDEES 
 {}
 .IDEES .IDEES-CAP
-{}
+{
+  text-align: center;
+}
 .IDEES .IDEES-TEXT
-{}
+{
+  text-align: justify;
+}
 .IDEES .IDEES-IMATGE
 {
   width: 30%;
@@ -3219,9 +3223,13 @@ ul, ol
 .PLANTEJAMENT
 {}
 .PLANTEJAMENT .PLANTEJAMENT-CAP
-{}
+{
+  text-align: center;
+}
 .PLANTEJAMENT .PLANTEJAMENT-TEXT
-{}
+{
+  text-align: justify;
+}
 .PLANTEJAMENT .PLANTEJAMENT-IMATGE
 {
   width: 30%;
@@ -3242,9 +3250,13 @@ ul, ol
 .PROVA-I-ERROR 
 {}
 .PROVA-I-ERROR .PROVA-I-ERROR-CAP
-{}
+{
+  text-align: center;
+}
 .PROVA-I-ERROR .PROVA-I-ERROR-TEXT
-{}
+{
+  text-align: justify;
+}
 .PROVA-I-ERROR .PROVA-I-ERROR-IMATGE
 {
   width: 30%;
