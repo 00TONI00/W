@@ -3206,7 +3206,10 @@ ul, ol
 .IDEES-TEXT
 {}
 .IDEES-IMATGE
-{}
+{
+  width: 30%;
+  height: 30vh;
+}
 .IDEES-IMATGE #IDEES-I
 {
   width: 100%;
