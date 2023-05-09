@@ -3181,15 +3181,13 @@ ul, ol
  }
  .WEB-IMATGE
  {
-  width: 50%;
+  width: 30%;
   height: 50vh;
-  overflow: hidden;
  } 
 .WEB-IMATGE #WEB-I
 {
   width: 100%;
   height: 100%;
-  object-fit: cover;
 }
 
 .ARTCODI-0
