@@ -3172,21 +3172,21 @@ ul, ol
   padding-top: 3%;
 }
 
- .WEB-0
- {
+.WEB-0
+{
   display: flex;
   padding: 2%;
- }
- .WEB-TEXT
- {
+}
+.WEB-TEXT
+{
   text-align: justify;
- }
- .WEB-IMATGE
- {
+  width: 70%;
+}
+.WEB-IMATGE
+{
   width: 30%;
   height: 50vh;
-  float: right;
- } 
+} 
 .WEB-IMATGE #WEB-I
 {
   width: 100%;
