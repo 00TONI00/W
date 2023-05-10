@@ -3214,6 +3214,7 @@ ul, ol
 .IDEES .IDEES-TEXT
 {
   text-align: justify;
+  padding-top: 2%;
 }
 .IDEES .IDEES-IMATGE
 {
@@ -3241,6 +3242,7 @@ ul, ol
 .PLANTEJAMENT .PLANTEJAMENT-TEXT
 {
   text-align: justify;
+  padding-top: 2%;
 }
 .PLANTEJAMENT .PLANTEJAMENT-IMATGE
 {
@@ -3302,6 +3304,7 @@ ul, ol
 .PERFECCIONAR .PERFECCIOANAR-TEXT
 {
   text-align: justify;
+  padding-top: 2%;
 }
 .PERFECCIONAR .PERFECCIONAR-IMATGE
 {
