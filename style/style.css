@@ -3144,7 +3144,9 @@ ul, ol
   padding-block-end: 2%;
 }
 .ARTCODI-CAP
-{}
+{
+  font-size: 250%;
+}
 .ARTCODI-IMATGE
 {
   width: 30%;
@@ -3173,7 +3175,9 @@ ul, ol
   padding-block-end: 2%;
 }
 .VIDEOJOCS-CAP
-{}
+{
+  font-size: 250%;
+}
 .VIDEOJOCS-IMATGE
 {
   width: 30%;
