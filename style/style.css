@@ -3241,11 +3241,13 @@ ul, ol
 .PLANTEJAMENT .PLANTEJAMENT-CAP
 {
   text-align: center;
+  font-size: 250%;
 }
 .PLANTEJAMENT .PLANTEJAMENT-TEXT
 {
   text-align: justify;
   padding-top: 2%;
+  font-size: 160%;
 }
 .PLANTEJAMENT .PLANTEJAMENT-IMATGE
 {
@@ -3276,11 +3278,13 @@ ul, ol
 .PROVA-I-ERROR .PROVA-I-ERROR-CAP
 {
   text-align: center;
+  font-size: 250%;
 }
 .PROVA-I-ERROR .PROVA-I-ERROR-TEXT
 {
   text-align: justify;
   padding-top: 2%;
+  font-size: 160%;
 }
 .PROVA-I-ERROR .PROVA-I-ERROR-IMATGE
 {
