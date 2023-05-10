@@ -3113,7 +3113,9 @@ ul, ol
   padding-block-end: 2%;
 }
 .WEB-CAP
-{}
+{
+  font-size: 250%;
+}
 .WEB-IMATGE
 {
   width: 30%;
