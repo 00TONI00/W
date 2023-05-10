@@ -3121,6 +3121,7 @@ ul, ol
 {
   width: 30%;
   height: 50vh;
+  cursor: pointer;
 } 
 .WEB-IMATGE #WEB-I
 {
@@ -3153,6 +3154,7 @@ ul, ol
 {
   width: 30%;
   height: 50vh;
+  cursor: pointer;
 }
 .ARTCODI-IMATGE #ARTCODI-I
 {
@@ -3185,6 +3187,7 @@ ul, ol
 {
   width: 30%;
   height: 50vh;
+  cursor: pointer;
 }
 .VIDEOJOCS-IMATGE #VIDEOJOCS-I
 {
