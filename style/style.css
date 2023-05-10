@@ -3309,11 +3309,13 @@ ul, ol
 .PERFECCIONAR .PERFECCIONAR-CAP
 {
   text-align: center;
+  font-size: 250%;
 }
 .PERFECCIONAR .PERFECCIOANAR-TEXT
 {
   text-align: justify;
   padding-top: 2%;
+  font-size: 160%;
 }
 .PERFECCIONAR .PERFECCIONAR-IMATGE
 {
