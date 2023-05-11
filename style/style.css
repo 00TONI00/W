@@ -334,6 +334,8 @@ ul, ol
   justify-content: center;
   align-items: center;
   display: flex;
+  padding-top: 6%;
+  padding-block-end: 4%;
 }
 
 .contenedor 
