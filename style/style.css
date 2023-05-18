@@ -3202,7 +3202,7 @@ ul, ol
   padding-top: 4%;
 }
 
-.PERFECCIONAR 
+.WEB-WEB 
 {
   padding: 2%;
   display: flex;
@@ -3210,24 +3210,24 @@ ul, ol
   justify-content: center;
   align-items: center;
 }
-.PERFECCIONAR .PERFECCIONAR-CAP
+.WEB-WEB .WEB-WEB-CAP
 {
   text-align: center;
   font-size: 250%;
 }
-.PERFECCIONAR .PERFECCIONAR-TEXT
+.WEB-WEB .WEB-WEB-TEXT
 {
   text-align: justify;
   padding-top: 2%;
   font-size: 160%;
 }
-.PERFECCIONAR .PERFECCIONAR-IMATGE
+.WEB-WEB .WEB-WEB-IMATGE
 {
   width: 50%;
   height: 50vh;
   padding-top: 5%;
 }
-.PERFECCIONAR .PERFECCIONAR-IMATGE #PERFECCIONAR-I
+.WEB-WEB .WEB-WEB-IMATGE #WEB-WEB-I
 {
   width: 100%;
   height: 100%;
