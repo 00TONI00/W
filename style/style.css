@@ -3102,7 +3102,8 @@ ul, ol
 }
 .WEB-CAP
 {
-  font-size: 250%;
+  font-size: 170%;
+  padding-block-end: 5%;
 }
 .WEB-IMATGE
 {
@@ -3135,7 +3136,8 @@ ul, ol
 }
 .ARTCODI-CAP
 {
-  font-size: 250%;
+  font-size: 170%;
+  padding-block-end: 5%;
 }
 .ARTCODI-IMATGE
 {
@@ -3168,7 +3170,8 @@ ul, ol
 }
 .VIDEOJOCS-CAP
 {
-  font-size: 250%;
+  font-size: 170%;
+  padding-block-end: 5%;
 }
 .VIDEOJOCS-IMATGE
 {
