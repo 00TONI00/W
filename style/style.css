@@ -250,6 +250,7 @@ ul, ol
   height: 250px;
   margin-bottom: 5px;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,.75);
+  background: black;
 }
 .imagen img
 {
