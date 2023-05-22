@@ -3210,6 +3210,7 @@ ul, ol
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 .WEB-WEB .WEB-WEB-CAP
 {
@@ -3226,6 +3227,7 @@ ul, ol
 .WEB-IMAT
 {
   display: flex;
+  width: 100%;
 }
 
 .WEB-IMAT-IMATGE-I
