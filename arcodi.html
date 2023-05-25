@@ -1,223 +1,319 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/style.css">
-    <script src="java.js"></script>
-    <title>💻ARTCODI💻</title>
-</head>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>ARTCODI</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <h1 class="title">ARTCODI</h1>
+  </head>
 
 <style>
-
-body{
-
-    background-color: #F4E9CD;
-    width:100%;
-    height: 100%;
+    *{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
     font-family: sans-serif;
-    letter-spacing: 0.03cm;
-    line-height: 1.6;
 }
-
 .title{
+position: absolute;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f4e9cd;
+}
+
+.card{
+    position: relative;
+    width: 300px;
+    height: 350px;
+}
+
+.card .face{
+    position: absolute;
+    width: 100%;
+    height:100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.card .front{
+    transform: perspective(600px) rotateY(0deg);
+    box-shadow: 0 5px 10px #000;
+}
+
+.card .front img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card .front h3{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    color:#fff;
+    background: rgba(0,0,0,0.4);
+    text-align:center;
+}
+
+.card .back{
+    transform: perspective(600px) rotateY(180deg);
+    background: rgb(3,35,54);
+    padding: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     text-align: center;
-    font-size: 40px;
-    color:#444;
-    margin-top: 100px;
-    font-weight: 100;
-}
-.container-M{
-  width: 100%;
-  max-width: 120%;
-  height: 50%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: auto;
-  padding-top: 7%;
+    box-shadow: 0 5px 10px #000;
 }
 
-.container-M .card-M{
-  width: 25%; /*ESTAVA A 25%*/
-  height: 60%; /*ESTAVA A 60%*/
-  border-radius: 0.8%;
-  box-shadow: 0 2px 2px rgba(0,0,0,0.2);
-  overflow: hidden;
-  margin: 2%;
-  text-align: center;
-  transition: all 0.25s;
+.card .back .link{
+    border-top: solid 1px #f3f3f3;
+    height: 50px;
+    line-height: 50px;
 }
 
-.container-M .card-M:hover{
-  transform: translateY(-15%);
-  box-shadow: 0 12px 16px rgba(0,0,0,0.2);
-
+.card .back .link a{
+    color: #f3f3f3;
 }
 
-.container-M .card-M img{
-  width: 50%; /*AIXÒ ESTAVA A 50%*/
-  height: 40%; /*AIXÒ ESTAVA A 40%*/
+.card .back h3{
+    font-size: 30px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+.card .back p{
+    letter-spacing: 1px;
 }
 
-.container-M .card-M h1{
-  font-weight: 600;
+.card:hover .front{
+    transform: perspective(600px) rotateY(180deg);
 }
 
-.container-M .card-M p{
-  padding: 0 1rem;
-  font-size: 1,6%;
-  font-weight: 300;
+.card:hover .back{
+    transform: perspective(600px) rotateY(360deg);
+}
+.columna{
+    margin-right: 10px;
+    margin-top: 20px;
 }
 
-.container-M .card-M a {
-  font-weight: 500;
-  text-decoration: none;
-  color:#3498db;
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-top:2%;
+  }
   
-}
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .column {
+    margin-right: 10px; /* Espacio entre columnas, puedes ajustarlo según tus necesidades */
+    margin-top: 20px;
+  }
 </style>
 
-<body>
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-<ul class="nav">
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            
+            <div class="face front">
+              <img src="Marc Roca.jpg">
+              <h3>MARC ROCA</h3>
+            </div>
+          <div class="face back">
+          <h3>MARC ROCA</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
 
-    <li><a href="index.html">INICI</a></li>
-  
-    <li><a href="qui_som">QUI SOM?</a></li>
-  
-    <li><a href="treball.html">TREBALL DE CLASSE</a>
-      <ul>
-      <li><a href="web.html">WEB</a></li>
-      <li><a href="arcodi.html">ARTCODI</a></li>
-      <li><a href="videojocs.html">VIDEOJOCS</a></li>
-      </ul>
-    </li>
-  
-  </ul>
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-<div class="container-M">
-  <div class="card-M">
-      <img src="ariadna2.jpg">
-      <h4>ARIADNA BONICH</h4>
-      <p>ARTCODI</p>
+          <div class="card">
+            <div class="face front">
+              <img src="jordi.jpg">
+              <h3>JORDI TULLEUDA</h3>
+            </div>
+          <div class="face back">
+          <h3>JORDI TULLEUDA</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          
+          <div class="card">
+            <div class="face front">
+              <img src="Mandeep2.jpg">
+              <h3>MANDEEP KAUR</h3>
+            </div>
+          <div class="face back">
+          <h3>MANDEEP KAUR</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          
+          <div class="card">
+            <div class="face front">
+              <img src="Mandeep (1).jpg">
+              <h3>MANDEEP KAUR</h3>
+            </div>
+          <div class="face back">
+          <h3>MANDEEP KAUR</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+        
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="face front">
+              <img src="Marc Roca (1).jpg">
+              <h3>MARC ROCA</h3>
+            </div>
+          <div class="face back">
+          <h3>MARC ROCA</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="face front">
+              <img src="marcR.jpg">
+              <h3>MARC RICÓN</h3>
+            </div>
+          <div class="face back">
+          <h3>MARC RICÓN</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="face front">
+              <img src="ariadna2.jpg">
+              <h3>ARIADNA BONICH</h3>
+            </div>
+          <div class="face back">
+          <h3>ARIADNA BONICH</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          <div class="card">
+            <div class="face front">
+              <img src="diagonal1_Marc-Roca-_1_.jpg">
+              <h3>MARC ROCA</h3>
+            </div>
+          <div class="face back">
+          <h3>MARC ROCA</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          
+        </div>
+        <div class="column">
+
+          <div class="card">
+            <div class="face front">
+              <img src="Tian Torras 3 .jpg">
+              <h3>TIAN TORRES</h3>
+            </div>
+          <div class="face back">
+          <h3>TIAN TORRES</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="face front">
+              <img src="Didac2-_1_.jpg">
+              <h3>DIDAC MOLIST</h3>
+            </div>
+          <div class="face back">
+          <h3>DIDAC MOLIST</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          
+          <div class="card">
+            <div class="face front">
+              <img src="guifre-_2_.jpg">
+              <h3>GUIGRÉ LUCAS</h3>
+            </div>
+          <div class="face back">
+          <h3>GUIFRÉ LUCAS</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+          
+          <div class="card">
+            <div class="face front">
+              <img src="guifre-_3_.jpg">
+              <h3>GUIFRÉ LUCAS</h3>
+            </div>
+          <div class="face back">
+          <h3>GUIFRÉ LUCAS</h3>
+          <p>Artcodi linies, espero que us agradi</p>
+          <div class =link>
+            <a href="#">detalls</a>
+          </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
      
-  </div>
 
-  <div class="card-M">
-      <img src="diagonal1_Marc-Roca-_1_.jpg">
-      <h4>MARC ROCA</h4>
-      <p>ARTCODI</p>
-     
-  </div>
-
-  <div class="card-M">
-      <img src="Didac2-_1_.jpg">
-      <h4>DIDAC MOLIST</h4>
-      <p>ARTCODI </p>
-
-  </div>
-
-  <div class="card-M">
-      <img src="guifre-_2_.jpg">
-      <h4>GUIFRÉ LUCAS</h4>
-      <p>ARTCODI</p>
-      
-  </div>
-
-  <div class="card-M">
-      <img src="Mandeep2.jpg">
-      <h4>MANDEEP KAUR</h4>
-      <p>ARTCODI</p>
-     
-  </div>
-
-  <div class="card-M">
-      <img src="Mandeep (1).jpg">
-      <h4>MANDEEP KAUR</h4>
-      <p>ARTCODI</p>
-     
-  </div>
-
-  <div class="card-M">
-      <img src="Marc Roca.jpg">
-      <h4>MARC ROCA</h4>
-      <p>ARTCODI</p>
-     
-  </div>
-  <div class="card-M">
-      <img src="Marc Roca (1).jpg">
-      <h4>MARC ROCA</h4>
-      <p>ARTCODI</p>
     
-  </div>
-  <div class="card-M">
-      <img src="Tian Torras 3 .jpg">
-      <h4>TIAN TORRES</h4>
-      <p>ARTCODI</p>
-    
-  </div> 
-
-  <div class="card-M">
-      <img src="Tian Torras (2).png">
-              <h4>TIAN TORRES</h4>
-      <p>ARTCODI</p>
-   
-  </div> 
-
-  <div class="card-M">
-      <img src="Tian-Torras-_3_.jpg">
-      <h4>TIAN TORRES</h4>
-      <p>ARTCODI</p>
-     
-  </div> 
-
-  <div class="card-M">
-      <img src="Tomàs.jpg">
-      <h4>TOMÀS GAROLERA</h4>
-      <p>ARTCODI</p>
-    
-  </div> 
-  <div class="card-M">
-      <img src="Didac2-_1_.jpg">
-      <h4>DÍDAC MOLIST</h4>
-      <p>ARTCODI</p>
-  
-  </div> 
-
-  <div class="card-M">
-      <img src="guifre-_2_.jpg">
-      <h4>GUIFRÉ LUCAS</h4>
-      <p>ARTCODI</p>
-     
-  </div> 
-
-  <div class="card-M">
-      <img src="guifre-_3_.jpg">
-      <h4>GUIFRÉ LUCAS</h4>
-      <p>ARTCODI</p>
-  </div> 
-
-  <div class="card-M">
-      <img src="marçal (2).jpg">
-      <h4>MARÇAL BOSCH</h4>
-      <p>ARTCODI</p>
-    
-  </div> 
-
-  <div class="card-M">
-      <img src="marcR (1).jpg">
-      <h4>MARC RINCON</h4>
-      <p>ARTCODI</p>
-    
-  </div>
+    </div>
 
 
-  </div>
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------->
-</body>
-</html>
+
+
+  </body>
+  </html>
